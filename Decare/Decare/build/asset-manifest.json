@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61e816b1.css",
+    "main.js": "/static/js/main.403fe20a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bdrc-bg.png": "/static/media/bdrc-bg.25ccf1ab176f867a2da2.png",
+    "static/media/call-man.png": "/static/media/call-man.8e475fca026346c85f86.png",
+    "static/media/faq-img.png": "/static/media/faq-img.accf8e74fa637dda7585.png",
+    "static/media/protfolio-img01.png": "/static/media/protfolio-img01.2dc3a0edf6f3de49df04.png",
+    "static/media/inner_b1.jpg": "/static/media/inner_b1.543908ce04ff9f0654f2.jpg",
+    "static/media/protfolio-img06.png": "/static/media/protfolio-img06.054f71fb561f0fa1d329.png",
+    "static/media/slider-img.png": "/static/media/slider-img.423e26adc2b07bdb3cf7.png",
+    "static/media/protfolio-img02.png": "/static/media/protfolio-img02.b597e5a699dc8e08a824.png",
+    "static/media/protfolio-img05.png": "/static/media/protfolio-img05.c43be615d7712d7eb741.png",
+    "static/media/protfolio-img04.png": "/static/media/protfolio-img04.7a84b7f0ecb16434637a.png",
+    "static/media/about_img.png": "/static/media/about_img.fb122ed6e0dad7a5274e.png",
+    "static/media/protfolio-img03.png": "/static/media/protfolio-img03.c6b66a7bf1f87114a234.png",
+    "static/media/inner_b3.jpg": "/static/media/inner_b3.6756a7a7fcd71eff9095.jpg",
+    "static/media/services-img-details2.png": "/static/media/services-img-details2.9d591e08b82af7a17846.png",
+    "static/media/inner_b2.jpg": "/static/media/inner_b2.264bffd4f7b70b78e631.jpg",
+    "static/media/inner_b5.jpg": "/static/media/inner_b5.d0b3394b4052af0b11df.jpg",
+    "static/media/f_logo.png": "/static/media/f_logo.e2a4e2d6f423aeb80093.png",
+    "static/media/logo.png": "/static/media/logo.13814d88b78e658c949d.png",
+    "static/media/hair-makeup2.jpg": "/static/media/hair-makeup2.2e1fcbbe02c651bc4591.jpg",
+    "static/media/hair-makeup3.jpg": "/static/media/hair-makeup3.f820faac5288e8874032.jpg",
+    "static/media/fe-icon05.png": "/static/media/fe-icon05.169a70101f6be422b119.png",
+    "index.html": "/index.html",
+    "main.61e816b1.css.map": "/static/css/main.61e816b1.css.map",
+    "main.403fe20a.js.map": "/static/js/main.403fe20a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e816b1.css",
+    "static/js/main.403fe20a.js"
+  ]
+}
