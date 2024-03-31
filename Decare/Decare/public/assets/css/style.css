@@ -10800,8 +10800,12 @@ color: #fff;
     color: #fff;
     border-radius: 21px;
     font-size: 19px;
-
   }
+ @media screen {
+    .cardcolor{
+      margin-top: 40px;
+  }
+ }
   .img-icon{
     height: 62px;
   }
